@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "title": "Harina de trigo",
+      "description": "Producto para hacer tortas",
+      "price": 10.99,
+      "thumbnail": "imagen1.jpg",
+      "code": "PROD1",
+      "stock": 100
+    },
+    {
+      "id": 2,
+      "title": "Aceite vegetal",
+      "description": "Producto para freir",
+      "price": 15.99,
+      "thumbnail": "imagen2.jpg",
+      "code": "PROD2",
+      "stock": 50
+    },
+    {
+        "id": 3,
+        "title": "Mantequilla",
+        "description": "Producto para sasonar alimentos",
+        "price": 7.99,
+        "thumbnail": "imagen3.jpg",
+        "code": "PROD3",
+        "stock": 32
+      }
+  ]
+  
